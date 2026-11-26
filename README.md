@@ -1,6 +1,6 @@
 # 🚀 90-Day FAANG & Tier-1 Senior Engineer Preparation Monorepo
 
-![Progress](https://img.shields.io/badge/Progress-13%2F69%20Tasks%20(18.8%25)-brightgreen.svg)-brightgreen.svg)-brightgreen.svg)-brightgreen.svg)-brightgreen.svg)-brightgreen.svg)-brightgreen.svg)-brightgreen.svg)-brightgreen.svg)-brightgreen.svg)-brightgreen.svg)-brightgreen.svg)-brightgreen.svg)-brightgreen.svg)-brightgreen.svg)-brightgreen.svg)
+![Progress](https://img.shields.io/badge/Progress-14%2F69%20Tasks%20(20.3%25)-brightgreen.svg)-brightgreen.svg)-brightgreen.svg)-brightgreen.svg)-brightgreen.svg)-brightgreen.svg)-brightgreen.svg)-brightgreen.svg)-brightgreen.svg)-brightgreen.svg)-brightgreen.svg)-brightgreen.svg)-brightgreen.svg)-brightgreen.svg)-brightgreen.svg)-brightgreen.svg)-brightgreen.svg)
 ![Track](https://img.shields.io/badge/Track-Senior%20Frontend%20%2F%20FullStack%20(IC5)-blue.svg)
 ![Target](https://img.shields.io/badge/Target-FAANG%20%7C%20Tier--1%20Remote-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
@@ -13,7 +13,7 @@ A rigorous 90-day execution framework designed to prepare for **Senior Frontend 
 
 ### Progress Bar
 
-`[████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]` **18.8% Completed**
+`[████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]` **20.3% Completed**
 
 > **How to update progress**:
 > When you complete any checklist item below (change `[ ]` to `[x]`), simply run:
@@ -70,7 +70,7 @@ faang-90day-sde-prep/
 
 #### Week 2: Linked Lists, Monotonic Stack & Event Loop
 
-- [ ] Day 8: Solve Reverse Linked List (LC 206) & Merge Two Sorted Lists (LC 21)
+- [x] Day 8: Solve Reverse Linked List (LC 206) & Merge Two Sorted Lists (LC 21)
 - [ ] Day 8: Implement `deepClone` supporting circular references & RegExp
 - [ ] Day 9: Solve Reorder List (LC 143) & Remove Nth Node From End (LC 19)
 - [ ] Day 9: Implement custom `EventEmitter` (`on`, `off`, `emit`, `once`)
